@@ -1,0 +1,19 @@
+{
+    "ROS2.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+        "/home/pr9/micro_ws/install/turtlesim_gui_controller/lib/python3.12/site-packages",
+        "/home/pr9/turtlesim_ws/build/my_pkg",
+        "/home/pr9/turtlesim_ws/install/my_pkg/lib/python3.12/site-packages",
+        "/home/pr9/turtlesim_ws/build/my_bringup",
+        "/home/pr9/turtlesim_ws/install/my_bringup/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/pr9/micro_ws/install/turtlesim_gui_controller/lib/python3.12/site-packages",
+        "/home/pr9/turtlesim_ws/build/my_pkg",
+        "/home/pr9/turtlesim_ws/install/my_pkg/lib/python3.12/site-packages",
+        "/home/pr9/turtlesim_ws/build/my_bringup",
+        "/home/pr9/turtlesim_ws/install/my_bringup/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
